@@ -6,10 +6,14 @@
 </h1>
 
 - 👋 Hi, I’m @vmurali100
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...  WordPress Development (Themes & Plugins)
+- 🌱 I’m currently learning ...  WordPress Development (Themes & Plugins)
+
+- 💻 Tech Stack
+- Frontend: HTML5, CSS3, JavaScript, ReactJS, Angular 18
+- Backend: NodeJS, Express
+- Database: MongoDB
+- Other Interests:
 
 <!---
 vmurali100/vmurali100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
