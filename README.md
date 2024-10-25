@@ -1,3 +1,6 @@
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vmurali100.vmurali100" />
+
 - 👋 Hi, I’m @vmurali100
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
